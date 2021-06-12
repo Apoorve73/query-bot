@@ -1,10 +1,11 @@
 # QUERY-BOT
 
 
-
+![query-bot](https://socialify.git.ci/Apoorve73/query-bot/image?font=KoHo&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/for-you.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/powered-by-responsibility.svg)
+
 
 ## 📌 Introduction
 
